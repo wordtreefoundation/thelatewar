@@ -1,0 +1,18 @@
+Full HTML
+=========
+
+<a href="http://wordtreefoundation.github.io/thelatewar">A Comparison of The Book of Mormon and the The Late War Between the United States and Great Britain</a>
+
+Summary
+=======
+  <p>
+  The <a href="http://en.wikipedia.org/wiki/War_of_1812">War of 1812</a> was to Joseph Smith what 9/11 was to many of us&mdash;very real, and very recent in memory. Could that war have played a part in inspiring Joseph's imagination when he wrote The Book of Mormon? <a href="#why-war">Why</a> does <i>The Book of Mormon</i> include so much war?</p>
+
+  <p>
+  We believe that like all creative works, The Book of Mormon was a <a href="http://everythingisaremix.info/">remix</a>&mdash;it was remixed from ideas and books contemporary to Joseph. One of those books was Gilbert J. Hunt's <a href="https://archive.org/details/latewarbetween_00hunt">The Late War Betweeen the United States and Great Britain</a>&mdash;a school textbook published in New York in 1817 for young students. It was a historical account of the then-recent War of 1812, written in the "scriptural style". <i>The Book of Mormon</i> is one book of several in this genre. When <i>The Late War</i> was published, Joseph would have been 12 years old.</p>
+
+  <p>
+  Interestingly, when Joseph sent Martin Harris to validate the translation of the Book of Mormon, one of the people he visited was Samuel Mitchill, who also happened to include his written endorsement of <i>The Late War</i> in its preface. Mitchill was pleased that a historian had used the "scriptural style" as a popular means of encouraging children to turn to the Holy Scriptures. Could Joseph have sought Mitchill's endorsement because of his support for <i>The Late War</i>, a book that held similarities to The Book of Mormon?</p>
+
+  <p>
+  Without a strong link between the two books, the similarities would be difficult to explain. There are over 100 rare phrases that bind <i>The Book of Mormon</i> to <i>The Late War</i> (phrases that do not show up in other contemporary books&mdash;or if they do, only once or twice per thousand books). In addition, the two books share common language while describing shared themes such as battles at forts, 2,000 soldiers (including striplings), mourning the dead, bands of robbers, weapon descriptions, martyrs, ships at sea, cataclysmic events, Christopher Columbus, false prophets, natives going to battle, and the importance of liberty, among many others. In summary, it came to pass that the books sounded very similar to one another&mdash;because the one was, at least in part, inspired by the other.</p>
